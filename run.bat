@@ -1,0 +1,1 @@
+cmd /K "myenv\Scripts\activate && python app.py"
