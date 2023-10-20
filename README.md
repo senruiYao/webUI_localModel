@@ -1,7 +1,7 @@
 # webUI_localModel
 
 ## 介绍
-webUI，用于本地模型chatGLM2-6b-int4，AI人工智能聊天chat。免魔法、无需联网、告别openAI_chatGPT_api_key！
+webUI，用于本地LLM大语言模型chatGLM2-6b-int4，AI人工智能聊天chat。免魔法、无需联网、告别openAI_chatGPT_api_key！
 
 ## 安装
 ### 模型
